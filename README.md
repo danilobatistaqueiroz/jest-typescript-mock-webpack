@@ -11,6 +11,8 @@ ficará por sua conta ter um carregamento de módulos funcionando no browser: AM
 
 Por conta disso, uma das melhores abordagens é utilizar o Webpack.  
 
+O ideal é sempre que possível utilizar o ES6 Modules, com ele, apenas o que é utilizado num módulo e apenas as dependências necessárias serão exportadas para o bundle gerado, enquanto que com o CommonJS o arquivo final pode acabar ficando muito maior.
+
 
 ## Instalação
 

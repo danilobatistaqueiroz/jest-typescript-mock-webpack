@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1595011584991" clover="3.2.0">
-  <project timestamp="1595011584992" name="All files">
+<coverage generated="1595013457742" clover="3.2.0">
+  <project timestamp="1595013457742" name="All files">
     <metrics statements="21" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="8" elements="32" coveredelements="26" complexity="0" loc="21" ncloc="21" packages="1" files="2" classes="2"/>
     <file name="sum.ts" path="/home/element/tutorials/typescript/typescript-starter/src/sum.ts">
       <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
